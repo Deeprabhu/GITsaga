@@ -3,6 +3,7 @@ import java.lang.Math;
 
 
 day 1 code V1
+day 2 code v2
 
 
 
